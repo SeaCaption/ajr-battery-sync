@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="409f8d1a-4856-465a-aec4-633959a43f86" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/app-bar/bottom-bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-bar/top-bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/battery-container/battery-hud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/content-container.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/battery-sync/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/battery-container/battery-hud.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/battery-container/battery-hud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/content-container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content-container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,32 +30,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
+          <entry key="css" value="4" />
+          <entry key="gitignore" value="1" />
           <entry key="js" value="9" />
           <entry key="json" value="3" />
           <entry key="rnc" value="1" />
-          <entry key="ts" value="1" />
+          <entry key="ts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
+          <entry key="CSS" value="4" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="9" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="RNG Compact" value="1" />
-          <entry key="TypeScript" value="1" />
+          <entry key="TypeScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="43" />
-          <entry key="JavaScript" value="644" />
+          <entry key="CSS" value="69" />
+          <entry key="JavaScript" value="1358" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="43" />
-          <entry key="js" value="644" />
+          <entry key="css" value="69" />
+          <entry key="js" value="1358" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -83,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="665">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -92,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="280">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -113,19 +102,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/App.css">
+        <entry file="file://$PROJECT_DIR$/src/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="210">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/index.css">
+        <entry file="file://$PROJECT_DIR$/src/css/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="175">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -133,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/content-container.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="805">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -144,14 +133,30 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/battery-container/battery-hud.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1015">
+              <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/Grid/Grid.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/app-bar/top-bar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1645">
-              <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+            <state relative-caret-position="525">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -162,7 +167,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/app-bar/bottom-bar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
+            <state relative-caret-position="-761">
               <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -186,12 +191,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/css/index.css" />
         <option value="$PROJECT_DIR$/src/components/app-bar.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/css/App.css" />
         <option value="$PROJECT_DIR$/src/components/app-bar/bottom-bar.js" />
         <option value="$PROJECT_DIR$/src/components/app-bar/top-bar.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/css/App.css" />
+        <option value="$PROJECT_DIR$/src/css/index.css" />
         <option value="$PROJECT_DIR$/src/components/content-container.js" />
         <option value="$PROJECT_DIR$/src/components/battery-container/battery-hud.js" />
       </list>
@@ -247,6 +252,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ajr-battery-sync" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ajr-battery-sync" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="battery-container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ajr-battery-sync" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ajr-battery-sync" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -295,18 +313,17 @@
       <workItem from="1535769479466" duration="1365000" />
       <workItem from="1535820293451" duration="25000" />
       <workItem from="1535820444504" duration="663000" />
-      <workItem from="1535821409900" duration="14546000" />
+      <workItem from="1535821409900" duration="25970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16599000" />
+    <option name="totallyTimeSpent" value="28023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14225501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24288724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -319,7 +336,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27863437" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14647578" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -387,20 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -408,10 +411,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="385">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/app-bar/bottom-bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="2330" column="11" lean-forward="true" selection-start-line="2330" selection-start-column="11" selection-end-line="2330" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/Grid/Grid.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/app-bar/top-bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -424,40 +478,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/src/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/app-bar/bottom-bar.js">
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/app-bar/top-bar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1645">
-          <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/content-container.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="805">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -465,7 +503,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/battery-container/battery-hud.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

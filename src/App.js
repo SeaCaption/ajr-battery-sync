@@ -2,7 +2,8 @@ import React, {Component} from 'react';
 import './css/App.css';
 import Container from '../src/components/content-container'
 import TopBar from './components/app-bar/top-bar'
-import BottomBar from './components/app-bar/bottom-bar'
+
+// import BottomBar from './components/app-bar/bottom-bar'
 
 class App extends Component {
     render() {
@@ -10,7 +11,6 @@ class App extends Component {
             <div className="App">
                 <TopBar/>
                 <Container/>
-                <BottomBar/>
             </div>
         );
     }
