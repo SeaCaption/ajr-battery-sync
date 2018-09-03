@@ -12,7 +12,6 @@ const styles = {
     root: {
         position: 'sticky',
         top: 0,
-        width: '100%',
         zIndex: 1,
     },
     flex: {

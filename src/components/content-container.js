@@ -9,11 +9,7 @@ import BatteryHud from '../components/battery-container/battery-hud'
 
 const styles = theme => ({
     root: {
-        position: "relative",
-        display: "block",
-        margin: 10,
         top: 0,
-        backgroundColor: "#CCCCCC",
     },
     fab: {
         position: "fixed",
